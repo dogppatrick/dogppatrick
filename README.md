@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently working on LeaLeaTechology
-Mainly use Python
+I’m currently working on LeaLea Technology as software engineer
+Main use Python devlop micro service api and database kind of app
+
