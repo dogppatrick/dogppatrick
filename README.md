@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently working on LeaLea Technology as software engineer  
-Main use Python devlop micro service api and database kind of app  
+I’m currently working on Stockfeel as backend software engineer  
 
